@@ -4,6 +4,21 @@ Software Engineer | [LinkedIn](https://www.linkedin.com/in/haifa-alhudaithi)
 
 I'm Haifa, a software engineer — this is where I share what I build. Welcome to my portfolio!
 
+Skills
+
+<table border="0" cellpadding="4" cellspacing="0"> <tr> <td valign="top">
+Java
+Python
+JavaScript
+HTML, CSS, Bootstrap
+</td> <td valign="top">
+Vue.js, Node.js
+Spring Boot, Firebase
+MongoDB, MySQL
+</td> <td valign="top">
+Unity
+UI/UX Design
+</td> </tr> </table>
 ---
 
 ## 🎬 Movie Discovery Web App
