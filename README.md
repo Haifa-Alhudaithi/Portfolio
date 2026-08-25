@@ -50,6 +50,7 @@ A property management platform designed to simplify the experience for both prop
 
 - 🔗 [Live Site](https://homekey-q4jp.onrender.com)
 - 🎥 [Demo Video](https://www.linkedin.com/posts/haifa-alhudaithi_introducing-home-key-our-senior-project-activity-7150185851384184832-DwUE)
+- 💻 [Source Code](https://github.com/Haifa-Alhudaithi/Homekey-web-application)
 
 ---
 
