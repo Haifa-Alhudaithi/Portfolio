@@ -3,6 +3,7 @@
 Software Engineer | [LinkedIn](https://www.linkedin.com/in/haifa-alhudaithi)
 
 I'm Haifa, a software engineer. This is where I share what I build.
+
 Welcome to my portfolio!
 
 <b>Skills</b>
