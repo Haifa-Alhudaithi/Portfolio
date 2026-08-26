@@ -43,7 +43,7 @@ A self-directed learning project built during my co-op at Neoleap to master Vue.
 - 🎥 [Demo Video](https://drive.google.com/file/d/1yfZbpjqoMLSXkeJJx-crGfwhHOdvjnh3/view?usp=sharing)
 - 💻 [Frontend Source Code](https://github.com/Haifa-Alhudaithi/Movie-web-application-Frontend)
 - 💻 [Backend Source Code](https://github.com/Haifa-Alhudaithi/Movie-web-application-Backend)
-- 📄 [HomeKey Senior Project PDF](./docs/HomeKey Senior Project PDF/Homekey Senior Project.pdf)
+- 📄 [HomeKey Senior Project PDF](./docs/HomeKey%20Senior%20Project%20PDF/Homekey%20Senior%20Project.pdf)
 
 ---
 
