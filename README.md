@@ -1,16 +1,68 @@
-# React + Vite
+# Haifa Alhudaithi — Project Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Software Engineer | [LinkedIn](https://www.linkedin.com/in/haifa-alhudaithi)
 
-Currently, two official plugins are available:
+I'm Haifa, a software engineer. This is where I share what I build.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Welcome to my portfolio!
 
-## React Compiler
+🌐 **Live site:** [haifa-alhudaithi.github.io/Portfolio](https://haifa-alhudaithi.github.io/Portfolio/)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+<b>Skills</b>
 
-## Expanding the ESLint configuration
+<table border="0" cellpadding="4" cellspacing="0">
+<tr>
+<td valign="top">
+<ul>
+<li>Java</li>
+<li>Python</li>
+<li>JavaScript</li>
+<li>HTML, CSS, Bootstrap</li>
+</ul>
+</td>
+<td valign="top">
+<ul>
+<li>React.js, Vue.js, Node.js</li>
+<li>Spring Boot, Firebase</li>
+<li>MongoDB, MySQL</li>
+</ul>
+</td>
+<td valign="top">
+<ul>
+<li>Unity</li>
+<li>UI/UX Design</li>
+<li>Requirements Engineering</li>
+<li>Technical Documentation (SRS)</li>
+</ul>
+</td>
+</tr>
+</table>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🎬 Movie Discovery Web App
+
+A self-directed learning project built during my co-op at Neoleap to master Vue.js, Vuetify, and Vuex — the company's core front-end stack. Built the frontend and integrated TheMovieDB API via Axios to deliver real-time movie data to users, while also gaining hands-on backend development experience with Spring Boot.
+
+- 🎥 [Demo Video](https://drive.google.com/file/d/1yfZbpjqoMLSXkeJJx-crGfwhHOdvjnh3/view?usp=sharing)
+- 💻 [Frontend Source Code](https://github.com/Haifa-Alhudaithi/Movie-web-application-Frontend)
+- 💻 [Backend Source Code](https://github.com/Haifa-Alhudaithi/Movie-web-application-Backend)
+
+---
+
+## 🏠 Home Key — Graduation Project
+
+A property management platform designed to simplify the experience for both property seekers and owners — enabling users to list, browse, and manage properties, portfolios, and wish lists. Built as a 5-person team senior graduation project. Developed the frontend using HTML, CSS, and JavaScript with Node.js, and contributed to backend functionality alongside the team. As part of the project, our team also wrote the full requirements document (SRS) — this involved interviewing and surveying real users through focus groups and workshops to figure out what the platform needed, then organizing and confirming those requirements with them before development began.
+
+- 🔗 [Live Site](https://homekey-q4jp.onrender.com/)
+- 🎥 [Demo Video](https://www.linkedin.com/posts/haifa-alhudaithi_introducing-home-key-our-senior-project-activity-7150185851384184832-DwUE)
+- 💻 [Source Code](https://github.com/Haifa-Alhudaithi/Homekey-web-application)
+- 📄 [HomeKey Senior Project PDF](https://github.com/Haifa-Alhudaithi/Portfolio/blob/main/docs/HomeKey%20Senior%20Project%20PDF/Homekey%20Senior%20Project.pdf)
+
+---
+
+## 🎮 Game Development
+
+Games I've designed and developed using Unity, including a 2D shooter built during Coursera coursework.
+
+- 🔗 [itch.io Profile](https://haifa-alhudaithi.itch.io/)
